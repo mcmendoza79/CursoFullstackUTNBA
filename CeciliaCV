@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Currículum</title>
+</head>
+<body>
+  <header>
+    <h1>Maria Cecilia Mendoza</h1>
+    <img src="D:\Usuario\Desktop\FullStack\cecilia.jpg" alt="Mi Foto">
+    <p>Docente</p>
+  </header>
+  <section>
+    <h2>Información de Contacto</h2>
+    <ul>
+      <li><strong>Dirección:xxxxxxxxxxxxxx</strong> Río Grande, Tierra del Fuego</li>
+      <li><strong>Teléfono:</strong> (2964) xxxx-xxxxx</li>
+      <li><strong>Correo Electrónico:</strong> correo@egmail.com</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Experiencia Laboral</h2>
+    <h3>Coordinación de Vinculación Sociocomunitaria</h3>
+    <ul>
+      <li>Prácticas Profesionalizantes</li>
+    </ul>
+   </section>
+
+  <section>
+    <h2>Educación</h2>
+    <h3>Analista de Sistemas</h3>
+    <p><em>2004</em></p>
+  </section>
+
+</body>
+</html>
