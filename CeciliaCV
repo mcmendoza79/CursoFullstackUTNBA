@@ -7,7 +7,7 @@
 <body>
   <header>
     <h1>Maria Cecilia Mendoza</h1>
-    <img src="D:\Usuario\Desktop\FullStack\cecilia.jpg" alt="Mi Foto">
+    <img src="cecilia.jpg" alt="Mi Foto">
     <p>Docente</p>
   </header>
   <section>
